@@ -1,0 +1,9 @@
+{
+  "features": {
+    "ghcr.io/devcontainer-community/devcontainer-features/valgrind.org:1": {
+      "version": "1.0.2",
+      "resolved": "ghcr.io/devcontainer-community/devcontainer-features/valgrind.org@sha256:0422a1ed5cdd2e1b997be8c5f67f729d94f9f1b51ad6144b3e9c0346a7347bba",
+      "integrity": "sha256:0422a1ed5cdd2e1b997be8c5f67f729d94f9f1b51ad6144b3e9c0346a7347bba"
+    }
+  }
+}
